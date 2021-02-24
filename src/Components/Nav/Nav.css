@@ -1,0 +1,22 @@
+.logo img {
+  width: 36px;
+  height: 36px;
+  margin-right: 20px;
+}
+.logo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: white;
+  margin-right: 50%;
+}
+.Manip {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+}
+.pad {
+  padding-left: 10%;
+  padding-right: 10%;
+}

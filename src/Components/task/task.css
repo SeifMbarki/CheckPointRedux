@@ -1,0 +1,9 @@
+.taskdes {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 15px;
+  background-color: teal;
+  margin: 15px;
+  border-radius: 10px;
+}
